@@ -1,0 +1,14 @@
+{
+	"auto_complete": false,
+	"auto_match_enabled": false,
+	"color_scheme": "Packages/textmate-solarized/Solarized (light).tmTheme",
+	"font_size": 12,
+	"rulers":
+	[
+		72,
+		78
+	],
+	"scroll_past_end": true,
+	"tab_completion": false
+	// "theme": "Soda Light.sublime-theme"
+}
