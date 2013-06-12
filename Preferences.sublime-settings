@@ -9,6 +9,6 @@
 		78
 	],
 	"scroll_past_end": true,
+	"show_full_path": true,
 	"tab_completion": false
-	// "theme": "Soda Light.sublime-theme"
 }

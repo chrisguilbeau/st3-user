@@ -1,0 +1,10 @@
+{
+	"cmd": ["/usr/local/go/bin/go","build","$file"],
+	"selector" : "source.go",
+
+	"variants": [
+		{ "cmd": ["/usr/local/go/bin/go", "run", "$file"],
+          "name": "Run"
+        }
+	]
+}
